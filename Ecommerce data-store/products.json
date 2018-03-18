@@ -1,0 +1,43 @@
+{
+    "products" : [                                                     
+       {
+           "id" : "113456",
+           "product-category" : "Electronics",
+           "product-type": "Mobile phones",
+           "brand" : "Apple",
+           "model-no" : "MQA62HN/A",
+           "model-name" : "iPhone X",
+           "memories" :[{
+               "type" : "ROM",
+               "size" : "64GB"
+           },
+           {
+               "type" : "RAM",
+               "size" : "4GB"
+   
+           }],
+           "display":{
+               "type" : "Super Retina HD",
+               "size" : "5.8 inch"
+           },
+           "camera" : [{
+               "position" : "rear",
+               "resolution" : "12MP",
+               "camera_lens-type" : "Dual Lens"
+           },{
+               "position" : "front",
+               "resolution" : "7MP"
+   
+           }],
+           "processor" :{
+               "name" : "A11 Bionic Chip",
+               "architecture" : "64-bit"
+           },
+           "colors_available" : [
+               "silver",
+               "space gray"
+           ]
+   
+       }
+    ]
+   }
